@@ -1,7 +1,9 @@
 
 const HowitsWorks = () => {
     return (
-        <div className="shadow-2xl pt-10 h-[28em] w-11/12 mx-auto rounded-2xl">
+        <div>
+
+<div className="shadow-2xl pt-10 h-[28em] w-11/12 mx-auto rounded-2xl">
             <div className="text-center">
             <h1 className="text-4xl font-sans mb-2 font-semibold">How it works</h1>
             <p>Premium designs, unlimited requests, super fast delivery, for one flat monthly fee.</p>
@@ -42,6 +44,25 @@ const HowitsWorks = () => {
                     </div>
                 </div>
             </div>
+        </div>
+
+{/* Another section */}
+
+
+            <div className="h-[30rem] text-center  my-20 bg-[#F9FAFB]">
+            <div className="flex justify-center items-center gap-2 pt-14">
+            <img className="w-8" src="../../../public/imges/s-logo.png" alt="" />
+            <h3 className=" text-xl font-bold font-sans">Sisyphus</h3>
+            </div>
+
+            <h1 className="text-4xl mt-16 w-11/12 mx-auto font-semibold">We’ve been with unicraft to kick start every new project and can’t imagine working without it.</h1>
+            <img className="w-12 bg-cover ml-[46.3em] mt-20 mb-2 h-12 rounded-full" src="../../../public/imges/mngr.jpg" alt="" />
+            <p className="text-xl font-semibold">Candice Wu</p>
+            <p>Product Manager, Sisyphus</p>
+        
+
+            </div>
+
         </div>
     );
 };
