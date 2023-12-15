@@ -42,7 +42,7 @@ const Slider = () => {
         <SwiperSlide><img className="h-[32em]" src={slide01} /></SwiperSlide>
       </Swiper>
 
-      <button className="border-2 mb-10 px-4 p-2 text-gray-500 rounded-md border-gray-500 ml-[44em] mt-8">View recent work</button>
+      <button className="border-2 mb-10 px-4 p-2 text-gray-500 rounded-md border-gray-500 ml-[43em] mt-8">View recent work</button>
         </div>
     );
 };
