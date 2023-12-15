@@ -1,4 +1,5 @@
 import Marquee from "react-fast-marquee";
+import Slider from "./Slider";
 const Banner = () => {
     return (
         <div>
@@ -8,20 +9,15 @@ const Banner = () => {
             <button className="text-center ml-[44em] mt-10 bg-gray-600 text-white p-3 px-10 rounded-lg">View Pricing</button>
    </div>
 
-
+   
    <div>
 
-<marquee  direction="ltr">
 
-
-
-
-</marquee>
 
     <p className="text-gray-500 text-center mt-52">Trusted By 250+ Companies</p>
    
     <Marquee pauseOnHover>
-    <div className="flex justify-center items-center gap-20 mb-20">
+    <div className="flex justify-center items-center gap-20 mt-6">
 
 <img src="/public/imges/Adobe_Logo_PNG_(17).png" className="w-24 h-8" alt="" />
  <img src="/public/imges/amazon.png" className="w-28 h-14" alt="" />
@@ -36,14 +32,14 @@ const Banner = () => {
 </div>
 </Marquee>
 
+<Slider></Slider>
 
 
 
  
 
    </div>
-
-        </div>
+    </div>
     );
 };
 
