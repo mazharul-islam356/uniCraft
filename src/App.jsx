@@ -4,6 +4,7 @@ import Home from './pages/Home/Home'
 import Banner from './pages/Home/banner/Banner'
 import Slider from './pages/Home/banner/Slider'
 import Pricing from './pages/Pricing/Pricing'
+import Acordian from './pages/acordian/Acordian'
 import HowitsWorks from './pages/howItsWork/HowitsWorks'
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         </div>
         <HowitsWorks></HowitsWorks>
         <Pricing></Pricing>
+        <Acordian></Acordian>
       </main>
      </div>
     </>
