@@ -21,7 +21,7 @@ const Banner = () => {
           Trusted By 250+ Companies
         </p>
 
-        <Marquee pauseOnHover>
+        
           <div className="flex justify-center items-center gap-20 mt-6">
             <img
               src="/public/imges/Adobe_Logo_PNG_(17).png"
@@ -56,7 +56,7 @@ const Banner = () => {
               alt=""
             />
           </div>
-        </Marquee>
+      
 
         
       </div>
