@@ -1,13 +1,12 @@
-import Marquee from "react-fast-marquee";
-
 const Banner = () => {
+
   return (
     <div>
       <div>
-        <h1 className="text-center mt-16 font-bold text-5xl w-5/6 mx-auto">
+        <h1 className="text-center mt-28 font-bold text-6xl w-[17em] mx-auto">
           Elevate Your Presence with Seamless Design and Innovation.
         </h1>
-        <p className="text-center text-xl mt-4">
+        <p className="text-center text-xl mt-6">
           From strategic planning to digital presence, we are your dedicated
           partner in achieving solo success.
         </p>
@@ -16,43 +15,39 @@ const Banner = () => {
         </button>
       </div>
 
+      
+
       <div>
-        <p className="text-gray-500 text-center mt-52">
+        <p className="text-gray-500 text-center mt-48">
           Trusted By 250+ Companies
         </p>
 
         
-          <div className="flex justify-center items-center gap-20 mt-6">
-            <img
-              src="/public/imges/Adobe_Logo_PNG_(17).png"
-              className="w-24 h-8"
-              alt=""
-            />
-            <img src="/public/imges/amazon.png" className="w-28 h-14" alt="" />
-            <img src="/public/imges/pngegg.png" className="w-28 h-14" alt="" />
-            <img
-              src="/public/imges/Spotify-Logo.wine.png"
-              className="w-28 h-20"
-              alt=""
-            />
+          <div className="flex flex-wrap justify-center items-center lg:gap-20 gap-10 md:gap-20 mt-6">
+            
+            
+            <img src="/public/imges/pngwing.com (13).png" className="w-32 h-20" alt="" />
+
+            <img src="/public/imges/amazon.png" className="w-40 h-24" alt="" />
+            
             <img
               src="/public/imges/zoom-logo-png.png"
-              className="w-16 h-5"
+              className="w-22 h-8"
               alt=""
             />
             <img
               src="/public/imges/klipartz.com (1).png"
-              className="w-16 h-16"
+              className="w-20 h-20"
               alt=""
             />
             <img
               src="/public/imges/klipartz.com.png"
-              className="w-16 h-16"
+              className="w-20 h-20"
               alt=""
             />
             <img
               src="/public/imges/pngegg (1).png"
-              className="w-24 h-12"
+              className="w-28 h-16"
               alt=""
             />
           </div>
