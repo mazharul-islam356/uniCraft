@@ -1,7 +1,7 @@
 import { IoMdCheckmarkCircleOutline } from "react-icons/io";
 const Pricing = () => {
   return (
-    <div>
+    <div className="bg02 bg-cover pt-4">
       <div className="text-center my-8">
         <h1 className="text-5xl font-bold opacity-80  font-sans">
           Pricing made for collaborative support.
@@ -17,8 +17,8 @@ const Pricing = () => {
         {/* Card 01 */}
         <div className="w-80  rounded-lg h-[31rem]">
           <div className=" shadow-md px-6">
-            <h2 className="pt-6 text-2xl mb-2">Proffesional</h2>
-            <p className="mb-4">Lorem ipsum dolor sit amet.lorem sad tisth </p>
+            <h2 className="pt-6 text-2xl mb-2">Freebie</h2>
+            <p className="mb-4">Ideal for individuals who need quick access to basic features.</p>
             <div>
               <span className="text-6xl">$0</span>{" "}
               <span className="text-xl">/month</span>
@@ -52,10 +52,10 @@ const Pricing = () => {
         </div>
 
         {/* Card 02 */}
-        <div className="w-80 bg-[#1c2d45f3] rounded-lg h-[31rem]">
+        <div className="w-80 bg-[#1c2d45f3] rounded-lg h-[32.5rem]">
           <div className="text-white px-6">
             <h2 className="pt-8 text-2xl mb-2">Proffesional</h2>
-            <p className="mb-4">Upload graphics & video in up to 4k</p>
+            <p className="mb-4">Ideal for individuals who who need advanced features and tools for client work.</p>
             <div>
               <span className="text-6xl">$25</span>{" "}
               <span className="text-xl">/month</span>
@@ -91,8 +91,8 @@ const Pricing = () => {
         {/* Card 03 */}
         <div className="w-80  rounded-lg h-[31rem]">
           <div className="shadow-lg px-6">
-            <h2 className="pt-8 text-2xl mb-2">Proffesional</h2>
-            <p className="mb-4">Instant Access to our design system</p>
+            <h2 className="pt-2 text-2xl mb-2">Enterprise</h2>
+            <p className="mb-4">Ideal for businesses who need personalized services and security for large teams. </p>
             <div>
               <span className="text-6xl">$100</span>{" "}
               <span className="text-xl">/month</span>

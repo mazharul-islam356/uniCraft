@@ -23,12 +23,12 @@ const Banner = () => {
         </p>
 
         
-          <div className="flex flex-wrap justify-center items-center lg:gap-20 gap-10 md:gap-20 mt-6">
+          <div className="flex flex-wrap justify-center items-center lg:gap-20 gap-10 md:gap-20 mb-16 mt-6">
             
             
             <img src="/public/imges/pngwing.com (13).png" className="w-32 h-20" alt="" />
 
-            <img src="/public/imges/amazon.png" className="w-40 h-24" alt="" />
+            <img src="/public/imges/amazon.png" className="w-40 h-20" alt="" />
             
             <img
               src="/public/imges/zoom-logo-png.png"

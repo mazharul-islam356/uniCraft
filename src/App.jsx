@@ -1,5 +1,6 @@
 import './App.css'
 import Navbar from './Navbar/Navbar'
+import Footer from './pages/Footer/Footer'
 import Home from './pages/Home/Home'
 import Banner from './pages/Home/banner/Banner'
 import Slider from './pages/Home/banner/Slider'
@@ -13,7 +14,7 @@ function App() {
   return (
     <>
      <div>
-      <main className='mb-10'>
+      <main>
         <div className='w-full bg bg-cover'>
        
         <Navbar></Navbar>
@@ -23,6 +24,8 @@ function App() {
         <HowitsWorks></HowitsWorks>
         <Pricing></Pricing>
         <Acordian></Acordian>
+        <Footer></Footer>
+        
       </main>
      </div>
     </>
