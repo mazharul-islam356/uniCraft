@@ -30,7 +30,7 @@ const Footer = () => {
           create more happy in the world.
         </p>
 
-        <div className="flex justify-between mt-4">
+        <div className="flex justify-between lg:gap-0 gap-8 mt-4">
           <p className="opacity-60">© 2077 Untitled UI. All rights reserved.</p>
           <div className="flex flex-wrap gap-4 text-2xl opacity-60">
             <a href="">

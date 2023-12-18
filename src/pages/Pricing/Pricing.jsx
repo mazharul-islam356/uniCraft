@@ -7,7 +7,7 @@ const Pricing = () => {
           <h1 className="text-5xl font-bold opacity-80  font-sans">
             Pricing made for collaborative support.
           </h1>
-          <p className="w-[35rem] pb-8 mx-auto text-xl mt-4">
+          <p className="pb-8 mx-auto text-xl mt-4">
             Plain is made for your entire company. Only pay for users that
             actually message customers. Everyone else is free, forever.
           </p>
