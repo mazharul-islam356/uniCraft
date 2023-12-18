@@ -2,7 +2,7 @@ import { IoMdCheckmarkCircleOutline } from "react-icons/io";
 const Pricing = () => {
   return (
     <section id="price">
-      <div className="bg02 bg-cover pt-4">
+      <div className="bg-[url(https://i.ibb.co/ZcbgNbh/bg02.png)] bg-cover pt-4">
         <div className="text-center my-8">
           <h1 className="text-5xl font-bold opacity-80  font-sans">
             Pricing made for collaborative support.

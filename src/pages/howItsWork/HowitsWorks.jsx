@@ -17,13 +17,13 @@ const HowitsWorks = () => {
             <div className="flex justify-center items-center my-8 ml-[17em]">
               <img
                 className="w-64"
-                src="../../../public/imges/one.png"
+                src="https://i.ibb.co/0s1sqfy/one.png"
                 alt=""
               />
 
               <img
                 className="w-20 absolute left-[28em] opacity-50"
-                src="../../../public/imges/up-arrow.png"
+                src="https://i.ibb.co/x5GS4CL/up-arrow.png"
                 alt=""
               />
 
@@ -37,12 +37,12 @@ const HowitsWorks = () => {
 
               <img
                 className="w-60"
-                src="../../../public/imges/two.png"
+                src="https://i.ibb.co/Kq50bhZ/two.png"
                 alt=""
               />
               <img
                 className="w-20 absolute left-[64em] opacity-50"
-                src="../../../public/imges/up-arrow.png"
+                src="https://i.ibb.co/x5GS4CL/up-arrow.png"
                 alt=""
               />
 
@@ -56,7 +56,7 @@ const HowitsWorks = () => {
 
               <img
                 className="w-60"
-                src="../../../public/imges/three.png"
+                src="https://i.ibb.co/d5bDr1d/three.png"
                 alt=""
               />
 
@@ -77,7 +77,7 @@ const HowitsWorks = () => {
           <div className="flex justify-center items-center gap-2 pt-14">
             <img
               className="w-8"
-              src="../../../public/imges/s-logo.png"
+              src="https://i.ibb.co/xLrS5dj/s-logo.png"
               alt=""
             />
             <h3 className=" text-xl font-bold font-sans">Sisyphus</h3>
@@ -89,7 +89,7 @@ const HowitsWorks = () => {
           </h1>
           <img
             className="w-12 bg-cover ml-[46.3em] mt-20 mb-2 h-12 rounded-full"
-            src="../../../public/imges/mngr.jpg"
+            src="https://i.ibb.co/FKgWFH2/mngr.jpg"
             alt=""
           />
           <p className="text-xl font-semibold">Candice Wu</p>

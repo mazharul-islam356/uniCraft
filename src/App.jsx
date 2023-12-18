@@ -12,7 +12,7 @@ function App() {
     <>
       <div>
         <main>
-          <div className="w-full bg bg-cover">
+          <div className="w-full bg-[url(https://i.ibb.co/JCcQw0C/bg.png)] bg-cover">
             <Navbar></Navbar>
             <Banner></Banner>
             <Slider></Slider>

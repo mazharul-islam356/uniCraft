@@ -3,7 +3,6 @@ import "swiper/css";
 import "swiper/css/effect-coverflow";
 import "swiper/css/pagination";
 import { EffectCoverflow, Pagination } from "swiper/modules";
-
 import slide01 from "../../../../public/imges/slide01.jpg";
 import slide02 from "../../../../public/imges/slide02.jpg";
 import slide03 from "../../../../public/imges/slide03.jpg";

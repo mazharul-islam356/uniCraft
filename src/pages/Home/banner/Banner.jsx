@@ -10,7 +10,7 @@ const Banner = () => {
           From strategic planning to digital presence, we are your dedicated
           partner in achieving solo success.
         </p>
-        <button className="text-center w-32 mx-auto btn btn-outline  mt-10 font-bold rounded-lg">
+        <button className="text-center w-32 mx-auto btn btn-outline mt-10 font-bold rounded-lg">
           View Pricing
         </button>
       </div>
@@ -26,27 +26,27 @@ const Banner = () => {
           <div className="flex flex-wrap justify-center items-center lg:gap-20 gap-10 md:gap-20 mb-16 mt-6">
             
             
-            <img src="/public/imges/pngwing.com (13).png" className="w-32 h-20" alt="" />
+            <img src="https://i.ibb.co/QXzwhYs/cisco.png" className="w-32 h-20" alt="" />
 
-            <img src="/public/imges/amazon.png" className="w-40 h-20" alt="" />
+            <img src="https://i.ibb.co/fpTs597/amazon.png" className="w-40 h-20" alt="" />
             
             <img
-              src="/public/imges/zoom-logo-png.png"
+              src="https://i.ibb.co/b1CjTpC/zoom-logo-png.png"
               className="w-22 h-8"
               alt=""
             />
             <img
-              src="/public/imges/klipartz.com (1).png"
+              src="https://i.ibb.co/cFbN3zr/apple.png"
               className="w-20 h-20"
               alt=""
             />
             <img
-              src="/public/imges/klipartz.com.png"
+              src="https://i.ibb.co/LNb5BBd/intel.png"
               className="w-20 h-20"
               alt=""
             />
             <img
-              src="/public/imges/pngegg (1).png"
+              src="https://i.ibb.co/cxNTqd4/meta.png"
               className="w-28 h-16"
               alt=""
             />
