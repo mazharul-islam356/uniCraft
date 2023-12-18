@@ -2,15 +2,15 @@ const Banner = () => {
 
   return (
     <div>
-      <div>
-        <h1 className="text-center mt-28 font-bold text-6xl w-[17em] mx-auto">
+      <div className="flex flex-col  justify-center">
+        <h1 className="text-center mt-28 font-bold lg:text-6xl md:text-5xl text-4xl w-11/12 mx-auto">
           Elevate Your Presence with Seamless Design and Innovation.
         </h1>
-        <p className="text-center text-xl mt-6">
+        <p className="text-center lg:text-xl mt-6">
           From strategic planning to digital presence, we are your dedicated
           partner in achieving solo success.
         </p>
-        <button className="text-center ml-[43em] mt-10 bg-gray-600 text-white p-3 px-10 rounded-lg">
+        <button className="text-center w-32 mx-auto btn btn-outline  mt-10 font-bold rounded-lg">
           View Pricing
         </button>
       </div>
