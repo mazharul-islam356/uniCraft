@@ -2,6 +2,7 @@
 import { useState } from "react";
 import AcordianItems from "./AcordianItems";
 
+
 const Acordian = () => {
 
     const [open, setOpen] = useState(false);
@@ -43,6 +44,8 @@ setOpen (i)
 
     return (
         <section id="faq">
+
+
             <div className="text-center mt-32">
                 <h1 className="text-5xl font-sans mb-4 font-bold">Frequently asked questions</h1>
                 <p className="text-xl">Everything you need to know about the product and billing.</p>

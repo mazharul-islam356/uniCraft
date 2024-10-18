@@ -18,7 +18,7 @@ const Pricing = () => {
           {/* Card 01 */}
           <div className="w-80  rounded-lg h-[30rem]">
             <div className=" shadow-md px-6">
-              <h2 className="pt-6 text-2xl mb-2">Freebie</h2>
+              <h2 className="pt-6 text-2xl text-center mb-2">Freebie</h2>
               <p className="mb-4">
                 Ideal for individuals who need quick access to basic features.
               </p>
